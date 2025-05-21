@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Ali</h1>
 
 <p align="center">
-  Bilgisayar mühendisliği öğrencisiyim. Web, mobil, yapay zeka ve sistem programlama alanlarında projeler geliştiriyorum.
+  Bilgisayar mühendisliği öğrencisiyim. Web, mobil, yapay zeka ve sistem programlama gibi alanlarda projeler geliştirdim ve geliştirmeye devam ediyorum.
 </p>
 
 ---
@@ -36,4 +36,4 @@
 ## 📫 Bana Ulaşın
 
 - GitHub: [github.com/aliclsr](https://github.com/aliclsr)
-- Mail: **aliclsr@gmail.com**
+- Mail: **aliefkan2003@gmail.com**
