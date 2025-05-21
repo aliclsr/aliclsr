@@ -15,10 +15,11 @@
 | 🧠 [**Field-of-Interest-Tracker**](https://github.com/aliclsr/Field-of-Interest-Tracker) | Kullanıcı ilgi alanlarına göre öneriler sunan Python tabanlı uygulama |
 | 🏥 [**Hospital-System**](https://github.com/aliclsr/Hospital-System) | C# ile masaüstü hasta kayıt ve randevu yönetimi sistemi |
 | 🧵 [**Thread-Processing**](https://github.com/aliclsr/Thread-Processing) | Çok iş parçacıklı C# uygulaması – stok ve sipariş senkronizasyonu |
-| 🎫 [**Ticket-Reservation-System**](https://github.com/aliclsr/Ticket-Reservation-System) | SOAP tabanlı derslik rezervasyon sistemi |
-| 🗺️ [**Treasure-Hunter-Game**](https://github.com/aliclsr/Treasure-Hunter-Game) | Harita üzerinde rastgele hazine arama oyunu (Python) |
-| 🎮 [**WordBattle**](https://github.com/aliclsr/Wordbattle) | Flutter + FastAPI ile geliştirilen 2 kişilik çevrimiçi kelime oyunu |
+| 🎫 [**Ticket-Reservation-System**](https://github.com/aliclsr/Ticket-Reservation-System) | Java tabanlı bilet rezervasyon sistemi |
+| 🗺️ [**Treasure-Hunter-Game**](https://github.com/aliclsr/Treasure-Hunter-Game) | Harita üzerinde rastgele hazine arama oyunu |
+| 🎮 [**WordBattle**](https://github.com/aliclsr/Wordbattle) | Flutter + FastAPI ile geliştirilen 2 kişilik çevrimiçi kelime oyunu (Mobile) |
 | 🧱 [**Breakout-Game**](https://github.com/aliclsr/Breakout-Game) | Tuğla kırma oyunu – masaüstü oyun projesi |
+| 🧱 [**TurizmWeb**](https://github.com/aliclsr/TurizmWeb) | Turizm sektöründe hizmet veren bir şirketin iletişim ve tanıtım ihtiyaçlarını karşılayan modern bir web sitesi|
 
 ---
 
