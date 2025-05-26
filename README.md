@@ -19,19 +19,21 @@
 | 🗺️ [**Treasure-Hunter-Game**](https://github.com/aliclsr/Treasure-Hunter-Game) | Harita üzerinde rastgele hazine arama oyunu |
 | 🎮 [**WordBattle**](https://github.com/aliclsr/Wordbattle) | Flutter + FastAPI ile geliştirilen 2 kişilik çevrimiçi kelime oyunu (Mobile) |
 | 🧱 [**Breakout-Game**](https://github.com/aliclsr/Breakout-Game) | Tuğla kırma oyunu – masaüstü oyun projesi |
-| 🧱 [**TurizmWeb**](https://github.com/aliclsr/TurizmWeb) | Turizm sektöründe hizmet veren bir şirketin iletişim ve tanıtım ihtiyaçlarını karşılayan modern bir web sitesi|
+| 🏞️ [**TurizmWeb**](https://github.com/aliclsr/TurizmWeb) | Turizm sektöründe hizmet veren bir şirketin iletişim ve tanıtım ihtiyaçlarını karşılayan modern bir web sitesi|
+| 🐨 [**Image-Processing-to-Recognize-Animals**](https://github.com/aliclsr/Image-Processing-to-Recognize-Animals) | Yüklenen hayvan görsellerinden 100'e yakın hayvanı tanıyabilen bir görüntü işleme modeli |
 
 ---
 
 ## 🛠️ Teknolojiler
 
-- Python (FastAPI, OpenCV)
+- Python (FastAPI, OpenCV, PyTorch, Torchvision, Timm, Matplotlib)
+- Google Colab
 - Flutter & Dart
 - C# (.NET 4.8, Windows Forms)
 - SQL (SQLite, MSSQL)
 - Git & GitHub
 - HTML, TailwindCSS
-
+  
 ---
 
 ## 📫 Bana Ulaşın
